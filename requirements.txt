@@ -1,2 +1,4 @@
 streamlit
-openai
+transformers
+huggingface_hub
+python-dotenv
